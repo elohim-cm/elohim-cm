@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2E4D&height=200&section=header&text=Elohim%20Warren&fontSize=48&fontColor=00D4FF&animation=fadeIn&fontAlignY=38&desc=Développeur%20Web%20Full-Stack%20%7C%20Douala,%20Cameroun&descAlignY=58&descColor=FFFFFF&descSize=18" width="100%"/>
 
 <a href="https://elohim-warren.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=D%C3%A9veloppeur+Full-Stack+%7C+PHP+%E2%80%A2+MySQL+%E2%80%A2+Vanilla+JS;Architecture+Custom+MVC+sans+framework;S%C3%A9curit%C3%A9+applicative+OWASP+Top+10;Marketplaces+%E2%80%A2+SPAs+%E2%80%A2+SEO+programmatique;Ouvert+aux+freelances+et+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=650&lines=D%C3%A9veloppeur+Full-Stack+%7C+PHP+%E2%80%A2+MySQL+%E2%80%A2+Vanilla+JS;Architecture+Custom+MVC;S%C3%A9curit%C3%A9+applicative+OWASP;Marketplaces+%E2%80%A2+SPAs+%E2%80%A2+SEO+programmatique;Ouvert+aux+freelances+et+collaborations+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -24,7 +24,7 @@
 
 ## 🧠 À propos
 
-Développeur **Full-Stack** camerounais basé à Douala, je conçois des plateformes web sur-mesure avec une approche centrée sur les fondamentaux : **architecture propre, performance réelle et sécurité intégrée**. Ma conviction : comprendre profondément le web permet de construire des systèmes plus fiables, plus rapides et plus durables.
+Développeur **Full-Stack**, je conçois des plateformes web sur-mesure avec une approche centrée sur les fondamentaux : **architecture propre, performance réelle et sécurité intégrée**. Ma conviction : comprendre profondément le web permet de construire des systèmes plus fiables, plus rapides et plus durables.
 
 J'ai livré des marketplaces sur-mesure avec SEO programmatique à grande échelle, des SPAs haut de gamme, des plateformes e-commerce, des sites vitrines optimisés conversion et des refontes Next.js. Mon standard : tokens CSRF, requêtes préparées, hashing bcrypt, HTML sémantique, design accessible.
 
@@ -86,19 +86,6 @@ Actuellement étudiant en 1ère année dans une filière web/informatique, et ou
 </td>
 </tr>
 </table>
-
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=elohim-cm&show_icons=true&theme=dark&hide_border=true&bg_color=0A2E4D&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true"/>
-<img height="165em" src="https://github-readme-streak-stats-eight.vercel.app/?user=elohim-cm&theme=dark&hide_border=true&background=0A2E4D&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elohim-cm&layout=compact&theme=dark&hide_border=true&bg_color=0A2E4D&title_color=00D4FF&text_color=FFFFFF" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=elohim-cm&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
-
-</div>
 
 ![Snake animation](https://raw.githubusercontent.com/ketrading-cm/snake/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
@@ -184,7 +171,7 @@ Site vitrine pour une agence d'accompagnement aux études à l'étranger depuis 
 </td>
 </tr>
 <tr>
-<td width="40%" align="center">💰</td>
+<td width="40%"><img src="https://elohim-warren.vercel.app/projects/openlife-elohim-portfolio.png" width="100%"/></td>
 <td width="60%">
 
 ### 💰 Open Life (ACAM Vie)
