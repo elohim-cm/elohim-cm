@@ -80,7 +80,8 @@ Actuellement étudiant en 1ère année dans une filière web/informatique, et ou
 
 **Environnement**
 <br/>
-<img src="https://skillicons.dev/icons?i=xampp,apache" />
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat-square&logo=xampp&logoColor=white) 
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
 
 </td>
 </tr>
@@ -93,15 +94,13 @@ Actuellement étudiant en 1ère année dans une filière web/informatique, et ou
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=elohim-cm&show_icons=true&theme=dark&hide_border=true&bg_color=0A2E4D&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&count_private=true"/>
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=elohim-cm&theme=dark&hide_border=true&background=0A2E4D&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF"/>
-
+<img height="165em" src="https://github-readme-streak-stats-eight.vercel.app/?user=elohim-cm&theme=dark&hide_border=true&background=0A2E4D&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elohim-cm&layout=compact&theme=dark&hide_border=true&bg_color=0A2E4D&title_color=00D4FF&text_color=FFFFFF" width="48%"/>
-
 <img src="https://github-profile-trophy.vercel.app/?username=elohim-cm&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" width="90%"/>
 
 </div>
 
-> 🐍 **Bonus animé** : le fichier [`snake.yml`](#-activer-le-snake-de-contribution-animé) plus bas permet d'ajouter un serpent qui dévore tes contributions, en bas de ce README.
+![Snake animation](https://raw.githubusercontent.com/ketrading-cm/snake/refs/heads/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -216,51 +215,3 @@ Un projet en tête ? Mon inbox est toujours ouvert.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0A2E4D&height=100&section=footer" width="100%"/>
 
 ---
-
-<details>
-<summary>🐍 Activer le snake de contribution animé (optionnel)</summary>
-
-<br/>
-
-Pour ajouter le serpent qui traverse ta grille de contributions en bas de ce README :
-
-1. Crée le fichier `.github/workflows/snake.yml` dans ce repo avec :
-
-```yaml
-name: Génération du snake de contribution
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        id: snake-gif
-        with:
-          github_user_name: elohim-cm
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-2. Une fois la première exécution terminée (Actions → onglet du repo), ajoute ceci où tu veux dans le README :
-
-```md
-![Snake animation](https://raw.githubusercontent.com/elohim-cm/elohim-cm/output/github-contribution-grid-snake-dark.svg)
-```
-
-</details>
